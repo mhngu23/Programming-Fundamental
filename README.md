@@ -1,5 +1,5 @@
 # Programming-Fundamental-RMIT-Master of Artificial Intelligence-Assignment
-## Assignment 1 (Score: 20/20)
+## Assignment 1 
 File including:
 * ProgFunA1_s3712611.py
 - An introduction to programming using Python.
@@ -7,7 +7,7 @@ File including:
 => What need to be improve?
 - Improving coding style. 
 
-## Assignment 2 (Score: 29.5/30)
+## Assignment 2 
 File including:
 * ProgFunA2_s3712611.py
 Implementing Object Oriented Programming into the design of the storage manager application. 
