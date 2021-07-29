@@ -16,7 +16,7 @@ Implementing Object Oriented Programming into the design of the storage manager 
 - The use of comment need to be more efficient.
 - Better OOP design.
 
-## Assignment 3: my_school.py (TBA)
+## Assignment 3: my_school.py 
 File including:
 * Diagram.jpg
 * my_school.py
